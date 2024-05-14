@@ -4,7 +4,11 @@
 <h3 align="center">🚀 JEE Aspirant | 💻 Programmer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="200" style="margin-left: 20px;">
+  <p align="center">
+    <a href="https://linkedin.com/in/kartikk18" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    </a>
+  </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kartiks-git&label=Profile%20views&color=0e75b6&style=flat" alt="kartiks-git" />
     <img src="https://img.shields.io/github/followers/kartiks-git?label=Followers&style=social" alt="GitHub followers" />
@@ -12,14 +16,9 @@
   </p>
 </div>
 
----
-
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/kartikk18" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="300">
+</div>
 
 ---
 
@@ -42,4 +41,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiks-git&theme=radical" alt="GitHub Streak" width="450
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiks-git&theme=radical" alt="GitHub Streak" width="450" />
+</p>
+
+---
+
+<h3 align="center">📫 Contact Me</h3>
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Email" width="40" height="40" />
+  </a>
+</p>
