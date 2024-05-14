@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-repository-path/typewriter.svg" alt="Hi 👋, I'm Kartik" />
+  <img src="https://your-repository-path/your-custom-banner.jpg" alt="Hi 👋, I'm Kartik" />
 </h1>
 
 <h3 align="center">🚀 JEE Aspirant | 💻 Programmer | 🛡️ Cybersecurity Enthusiast</h3>
@@ -8,6 +8,9 @@
   <p align="center">
     <a href="https://linkedin.com/in/kartikk18" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Email" width="40" height="40" />
     </a>
   </p>
   <p align="center">
@@ -46,10 +49,3 @@
 </p>
 
 ---
-
-<h3 align="center">📫 Contact Me</h3>
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Email" width="40" height="40" />
-  </a>
-</p>
