@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://your-repository-path/typewriter.svg" alt="Hi 👋, I'm Kartik" />
 </h1>
+
 <h3 align="center">🚀 JEE Aspirant | 💻 Programmer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <div align="center">
@@ -10,14 +11,14 @@
     </a>
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kartiks-git&label=Profile%20views&color=0e75b6&style=flat" alt="kartiks-git" />
+    <img src="https://komarev.com/ghpvc/?username=kartiks-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/kartiks-git?label=Followers&style=social" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/kartiks-git?label=Stars&style=social" alt="GitHub stars" />
   </p>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="300">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="300">
 </div>
 
 ---
