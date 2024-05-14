@@ -37,15 +37,13 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiks-git&show_icons=true&theme=radical" alt="Kartik's GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiks-git&show_icons=true&theme=radical&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Kartik's GitHub stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks-git&layout=compact&theme=radical" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks-git&layout=compact&theme=radical&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiks-git&theme=radical" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiks-git&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" width="450" />
 </p>
-
----
