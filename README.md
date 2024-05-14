@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="download.jpg" alt="Hi 👋, I'm Kartik" />
+  <img src="banner.png" alt="Hi 👋, I'm Kartik" />
 </h1>
 
 <h3 align="center">🚀 JEE Aspirant | 💻 Programmer | 🛡️ Cybersecurity Enthusiast</h3>
