@@ -36,14 +36,11 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiktaneja0&show_icons=true&theme=radical&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Kartik's GitHub stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiktaneja0&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktaneja0&layout=compact&theme=radical&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiktaneja0&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiktaneja0&show_icons=true&locale=en&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" width="450" />
 </p>
